@@ -20,12 +20,14 @@ Seleccionas el framework a utilizar:
   React
 ```
 ![crearproyecto](img/Crear%20proyecto.png)
+
 Seleccionas la variante a utilizar:
 ```bash
   Select a variant:
   Javascript
 ```
 ![variante](img/seleccionarvariante.png)
+
 Resultado
 ![resultado](img/resultado.png)
 ## Correr el proyecto
