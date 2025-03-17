@@ -4,6 +4,7 @@
 ![nodejs](img/nodejs.png)
 ## 🔗Opcional -> Instalar yarn
 Del mismo equipo creador de React
+
 [Link de Yarn](https://yarnpkg.com/)
 ![yarnpag](img/yarnpagina.png)
 ```bash
