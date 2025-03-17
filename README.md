@@ -29,6 +29,8 @@ Seleccionas la variante a utilizar:
 ![variante](img/seleccionarvariante.png)
 
 Resultado
+
+
 ![resultado](img/resultado.png)
 ## Correr el proyecto
 Coloca la ruta de tu carpeta en cmd con:
