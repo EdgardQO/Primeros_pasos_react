@@ -1,9 +1,15 @@
 # Primeros_pasos_react
 ## 🔗Instalar NodeJS para tener npm
 [Link de NodeJS](https://nodejs.org/en)
+![nodejs](img/nodejs.png)
 ## 🔗Opcional -> Instalar yarn
 Del mismo equipo creador de React
-[Link de Yarn](https://nodejs.org/)
+[Link de Yarn](https://yarnpkg.com/)
+![yarnpag](img/yarnpagina.png)
+```bash
+  npm install -g yarn
+```
+sudo en otros S.O
 ## Crear proyecto
 Entra a la terminal y cambia de directorio hasta encontrar tu carpeta inicial
 ```bash
