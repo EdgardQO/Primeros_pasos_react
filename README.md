@@ -67,3 +67,10 @@ Luego agrega el --host
   yarn dev --host
 ```
 ![network](img/corriendonetwork.png)
+
+## Resultado final
+Versión en PC
+![PC](img/PC.png)
+
+Versión móvil
+![movil](img/movil.png)
