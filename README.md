@@ -73,4 +73,7 @@ Versión en PC
 ![PC](img/PC.png)
 
 Versión móvil
+
+
+
 ![movil](img/movil.png)
