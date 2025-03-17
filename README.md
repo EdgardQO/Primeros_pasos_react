@@ -69,10 +69,10 @@ Luego agrega el --host
 ![network](img/corriendonetwork.png)
 
 ## Resultado final
-Versión en PC
+## Versión en PC
 ![PC](img/PC.png)
 
-Versión móvil
+## Versión móvil
 
 
 
