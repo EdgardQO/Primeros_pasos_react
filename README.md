@@ -15,7 +15,7 @@ sudo en otros S.O
 ## Crear proyecto
 Entra a la terminal y cambia de directorio hasta encontrar tu carpeta inicial
 ```bash
-  yarn create create vite
+  yarn create vite
 ```
 Colocar el nombre de tu proyecto:
 ```bash
